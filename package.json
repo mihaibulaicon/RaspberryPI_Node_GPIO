@@ -1,0 +1,25 @@
+{
+  "name": "gpio",
+  "version": "1.0.0",
+  "description": "read/write from Raspberry PI Zero W GPIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RPIZeroWGPIO"
+  },
+  "keywords": [
+    "Raspberry",
+    "Pi",
+    "Zero",
+    "W",
+    "GPIO"
+  ],
+  "author": "Mihai B",
+  "license": "MIT",
+  "dependencies": {
+    "rpi-gpio": "^0.9.1"
+  }
+}
